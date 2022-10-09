@@ -1,0 +1,16 @@
+ID	NAME		HP	MP	ACK	DEF	PIC	DESCRIPTION	PRICE	NPCID	TYPE		OVERLYING
+7
+weapon	armor	shoe	hat	ring	hand	necklace
+武器	衣服	鞋子	帽子	戒指	手套	项链
+11
+3000	神器		1000	1000	1000	1000	神	无敌神器	9999999	0	weapon		1	
+3001	红药		100	0	0	0	红	一瓶红药水	100	2003	consumables	0
+3002	蓝药		0	100	0	0	蓝	一瓶蓝药水	100	2003	consumables	0
+3003	攻药		0	0	50	0	攻	攻击药水	500	2003	consumables	0
+3004	大刀		-10	0	100	0	刀	大刀饥渴难耐	1000	2001	weapon		1
+3005	铁剑		0	0	50	0	剑	铁件		1000	2001	weapon		1
+3006	铁甲		100	0	0	50	甲	铁夹		500	2002	armor		1
+3007	布衣		0	0	0	10	衣	布衣		50	2002	armor		1
+3008	回城卷轴	0	0	0	0	回	回城		1000	2004	consumables	0
+3009	经验卷轴	0	0	0	0	经	经验		1	2004	consumables	0
+3010	精灵球		0	0	0	0	球	捕捉精灵	200	2004	consumables	0
